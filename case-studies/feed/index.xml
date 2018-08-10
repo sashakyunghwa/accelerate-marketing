@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Case Studies &#8211; Accelerate</title>
+	<atom:link href="http://localhost/accelerate/case-studies/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://sashakyunghwa.github.io/accelerate-marketing</link>
+	<description>Accelerate is a strategy and marketing agency aimed at making our clients visible and building their businesses.</description>
+	<lastBuildDate>Thu, 09 Aug 2018 22:07:29 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Zurb Campaign</title>
+		<link>/https://sashakyunghwa.github.io/accelerate-marketing/case-studies/zurb-campaign/</link>
+		<pubDate>Wed, 01 Aug 2018 00:33:35 +0000</pubDate>
+		<dc:creator><![CDATA[Donna]]></dc:creator>
+		
+		<guid isPermaLink="false">/https://sashakyunghwa.github.io/accelerate-marketing/?post_type=case_studies&#038;p=14</guid>
+		<description><![CDATA[Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam, placeat nam. Natus doloremque at minus ex illum. Fuga, molestias libero! Repellendus ducimus in dolorum voluptatibus ipsa, quidem labore velit obcaecati magnam qui dolorem illo facere magni at excepturi ut voluptas, officia iste mollitia optio. Voluptatum sed facere placeat earum voluptas?]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam, placeat nam. Natus doloremque at minus ex illum. Fuga, molestias libero! Repellendus ducimus in dolorum voluptatibus ipsa, quidem labore velit obcaecati magnam qui dolorem illo facere magni at excepturi ut voluptas, officia iste mollitia optio. Voluptatum sed facere placeat earum voluptas?</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Coroflot Campaign</title>
+		<link>/https://sashakyunghwa.github.io/accelerate-marketing/case-studies/coroflot-campaign/</link>
+		<pubDate>Wed, 01 Aug 2018 00:25:58 +0000</pubDate>
+		<dc:creator><![CDATA[Donna]]></dc:creator>
+		
+		<guid isPermaLink="false">/https://sashakyunghwa.github.io/accelerate-marketing/?post_type=case_studies&#038;p=12</guid>
+		<description><![CDATA[Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam, placeat nam. Natus doloremque at minus ex illum. Fuga, molestias libero! Repellendus ducimus in dolorum voluptatibus ipsa, quidem labore velit obcaecati magnam qui dolorem illo facere magni at excepturi ut voluptas, officia iste mollitia optio. Voluptatum sed facere placeat earum voluptas?]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam, placeat nam. Natus doloremque at minus ex illum. Fuga, molestias libero! Repellendus ducimus in dolorum voluptatibus ipsa, quidem labore velit obcaecati magnam qui dolorem illo facere magni at excepturi ut voluptas, officia iste mollitia optio. Voluptatum sed facere placeat earum voluptas?</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Mailchimp Campaign</title>
+		<link>/https://sashakyunghwa.github.io/accelerate-marketing/case-studies/mailchimp-campaign/</link>
+		<pubDate>Tue, 31 Jul 2018 18:35:31 +0000</pubDate>
+		<dc:creator><![CDATA[Donna]]></dc:creator>
+		
+		<guid isPermaLink="false">/https://sashakyunghwa.github.io/accelerate-marketing/?post_type=case_studies&#038;p=6</guid>
+		<description><![CDATA[This is a project I made for this company for this. Here is the early stage startup that I helped design and do front-end and back-end dev for.]]></description>
+				<content:encoded><![CDATA[<p>This is a project I made for this company for this. Here is the early stage startup that I helped design and do front-end and back-end dev for.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

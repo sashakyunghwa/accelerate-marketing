@@ -1,0 +1,442 @@
+/*
+Theme Name:   Accelerate Theme Child
+Theme URI:    http://example.com/accelerate-theme-child/
+Description:  Accelerate Child Theme - Accelerate
+Author:   	Your Name!
+Author URI:   http://example.com
+Template: 	accelerate-theme
+Version:      2.0.0
+Tags:     	light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain:  accelerate-theme-child
+*/
+
+.home-page {
+    background: url("/https://sashakyunghwa.github.io/accelerate-marketing/wp-content/themes/accelerate-theme-child/img/taxi-photo.jpg") no-repeat scroll right center / cover rgba(0, 0, 0, 0);
+}
+
+#masthead {
+    background: none repeat scroll 0 0 #45ac9d;
+  }
+
+.button {
+    background: none repeat scroll 0 0 #45ac9d;
+}
+
+#masthead nav ul li {
+    float: left;
+    margin: 0 10px;
+}
+
+.blog-post {
+	width: 50%;
+	float: left;
+	margin-bottom: 2em;
+}
+
+.blog-post h4 {
+    font: 700 1em/1.75 'Montserrat', 'Open Sans', Arial, sans-serif;
+    color: #a6a6a6;
+    text-transform: uppercase;
+    margin: 2em 0 .5em;
+}
+
+.blog-post h3 {
+	font-size: 1.5em;
+}
+
+.read-more-link {
+	font-family: 'Montserrat';
+	font-weight: 700;
+	color: #45ac9d;
+    text-transform: uppercase;
+    margin-top: 2em;
+}
+
+/* Case Studies */
+article.case-study {
+    margin: 40px 0 0;
+}
+
+aside.case-study-sidebar {
+    float: left;
+    width: 314px;
+    margin: 0 40px 0 0;
+}
+
+div.case-study-images {
+    float: left;
+    width: 606px;
+}
+
+div.case-study-images img {
+    margin-bottom: 50px;
+    border: 1px solid #dddddd;
+    width: 50%;
+}
+
+.site-content {
+    display: block;
+}
+
+.site-content ul {
+    list-style: none;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.site-content li {
+    width: 30%;
+    display: inline-block;
+    margin-right: 25px;
+}
+
+#featured-work {
+    text-align: center;
+}
+
+div.case-study-images img {
+	width: 100%;
+	height: auto;
+}
+
+#blog-title {
+    margin-top: 38px;
+}
+
+/*Case Studies*/
+.case-study {
+    clear: both;
+}
+.case-study h2 {
+    font: 700 1.5em/1.5 'Open Sans Semibold';
+}
+.case-study h4 {
+    font: 400 .875em/1.25 'Open Sans';
+    margin: 1em 0;
+}
+.case-study h4 span {
+    color: #878787;
+}
+.case-study-sidebar p {
+    margin: 2em 0;
+}
+div.case-study-images {
+	margin-top: 3em;
+}
+div.case-study-images img {
+    width: 100%;
+    height: auto;
+	margin-bottom: 3.125em;
+	border: 1px solid #dddddd;
+}
+.links {
+    color: #45ac9d;
+}
+/*END Case Studies*/
+
+
+/* Single Case Study Page */
+.back-to-work-link {
+    clear: both;
+    float: left;
+}
+
+/* Social Media Icons */
+#menu-social-media-nav {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+#menu-item-54, #menu-item-55, #menu-item-56 {
+    display: inline-block;
+    background: black;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.icon-twitter {
+    padding: 6px;
+}
+
+.icon-facebook {
+    padding: 10px;
+}
+
+.icon-linkedin {
+    padding: 6px;
+}
+
+.site-footer a {
+    color: white;
+    font-size: .9em;
+    line-height: 1.5;
+}
+
+/* Contact Form */
+/* Contact Page */
+/* .page-id-24 #primary {
+    max-width: 660px;
+} */
+
+#nf-field-1-container {
+	display: inline-block;
+	width: 48%;
+}
+
+#nf-field-2-container {
+	width: 48%;
+	float: right;
+}
+
+textarea {
+    border: 1px solid #BFBFBF;
+}
+
+#nf-field-4 {
+    background-color: #45ac9d;
+    float: right;
+}
+
+.submit-container {
+    float: right;
+}
+
+/* 404 Page */
+.haha-text {
+    font-family: 'Londrina Solid', 'Montserrat', 'Open Sans', Arial, sans-serif;
+}
+
+.haha {
+    text-align: center
+}
+
+.haha h1 {
+    font-size: 3.5em;
+    margin: 0;
+}
+
+.haha h2 {
+    font-weight: lighter;
+    font-size: 2em;
+    margin: 0;
+}
+
+.haha a:hover {
+    font-weight: bold;
+}
+
+#minion-pic {
+    width: 100%;
+}
+
+/* About Page */
+/* #primary div {
+    max-width: 520px;
+    margin: auto;
+} */
+
+.page-id-27 h3 {
+    max-width: 550px;
+    margin: auto;
+}
+
+#our-service {
+    text-transform: uppercase;
+}
+
+.about-content {
+    width: 90%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.first-div {
+    text-align: center;
+}
+
+.first-div p {
+    text-align: center;
+    max-width: 550px;
+}
+
+.service {
+    display: inline-block;
+}
+
+.service-image-left {
+    float: left;
+    margin-top: 5em;
+}
+
+#content-strategy {
+    margin-top: 5em;
+}
+
+.service-text-right {
+    width: 70%;
+    float: right;
+}
+
+.service-text-left {
+    width: 70%;
+    float: left;
+}
+
+.service-image-right {
+    float: right;
+    margin-top: 4em;
+}
+
+.contact-us {
+    text-align: center;
+    border-top: 1px solid #bfbfbf;
+}
+
+.contact-us h2 {
+    display: inline-block;
+    padding-right: 1em;
+}
+
+.contact-us button {
+    font: 700 1em/1 'Montserrat', 'OpenSans', Arial, sans-serif;
+    color: #fff;
+    background: #45ac9d;
+    padding: 1em 2.75em;
+    text-align: center;
+}
+
+
+/* Blog Posts Page */
+.blog .site-content {
+    display: flex;
+}
+
+.post-template-default .site-content {
+    display: flex;
+}
+
+.archive .site-content {
+    display: flex;
+}
+
+/* Blog Sidebar */
+#sidebar #mc4wp_form_widget-3 {
+    padding-top: 0;
+    padding-bottom: 2em;
+    border-bottom: 1px solid #BFBFBF; 
+}
+
+#sidebar ul {
+    margin: 0;
+    text-align: left;
+}
+
+#sidebar ul li {
+    width: 100%;
+}
+
+#primary-sidebar #search-2 {
+    border: none;
+}
+
+.mc4wp-form-fields h1 {
+    text-align: center;
+    font-size: 15px;
+}
+
+.mc4wp-form-fields p:nth-child(2)  {
+    color: #a6a6a6;
+    font-size: .82em;
+    text-align: center;
+}
+
+.mc4wp-form-fields p:nth-of-type(2)  {
+    margin-left: -0.5em;
+}
+
+.mc4wp-form-fields p:nth-of-type(2) input  {
+    text-align: center;
+}
+
+.mc4wp-form-fields p:nth-of-type(3) input  {
+    padding-bottom: 2em;
+}
+
+#mc4wp-form-1 .mc4wp-alert .mc4wp-success p {
+    font-size: 14px;
+    text-align: center; 
+}
+
+#sfsi-widget-2 h2 {
+    font-size: .8em;
+}
+
+/* Blog Comments */
+#comments ol li {
+    width: 100%;
+}
+
+
+/* Front Page */
+.sidebar-twitter {
+    float: right;
+    width: 50%;
+}
+
+.widget-title {
+    font: 700 1em/1.75 'Montserrat', 'Open Sans', Arial, sans-serif;
+    color: #a6a6a6;
+    text-transform: uppercase;
+    margin: 2em 0 .5em;
+}
+
+#pi_simpletwittertweets-2 ul {
+    text-align: left;
+    margin: auto;
+    margin-top: 6em;
+}
+
+#pi_simpletwittertweets-2 ul li {
+    font: 17px/1.65 'Open Sans', Arial, sans-serif;
+    width: 100%;
+}
+
+.follow-us {
+    margin-left: 6em;
+    margin-top: 2em;
+}
+
+#pi_simpletwittertweets-2 {
+    margin-left: 6em;
+}
+
+/* Twitter Module */
+#secondary h4 {
+    font: 700 1em/1.75 'Montserrat', 'Open Sans', Arial, sans-serif;
+    color: #a6a6a6;
+    text-transform: uppercase;
+    margin-left: 6em;
+}
+
+#pi_simpletwittertweets-2 h3, .widget-title {
+    font-size: 1.5em;
+    color: black;
+    text-transform: none;
+    margin-top: 1.4em;
+}
+
+#pi_simpletwittertweets-2 ul, .tweets {
+    margin-top: 0;
+}
+
+@media (max-width: 600px) {
+	#nf-field-1-container {
+		display: block;
+		width: 100%;
+	}
+	
+	#nf-field-2-container {
+		width: 100%;
+	}
+}
